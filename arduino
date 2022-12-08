@@ -1,0 +1,44 @@
+Arduino
+
+Yavuz Selim Güzel
+Elektrik Elektronik Mühendisliği, Karatay Üniversitesi
+EEE121: Algoritma ve Programlama
+Dr. Öğr. Üyesi BURAK YILMAZ
+08.12.2022	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arduino nedir ? 
+Arduino bir G/Ç kartı ve Processing/Wiring dilinin bir uygulamasını içeren geliştirme ortamından oluşan bir fiziksel programlama platformudur.
+
+Arduino kartlarının donanımında bir adet Atmel AVR mikrodenetleyici (ATmega328, ATmega2560, ATmega32u4 gibi) ve programlama ve diğer devrelere bağlantı için gerekli yan elemanlar bulunur. Her Arduino kartında en azından bir 5 voltluk regüle entegresi ve bir 16MHz kristal osilator (bazılarında seramik rezonatör) vardır. Arduino kartlarında programlama için harici bir programlayıcıya ihtiyaç duyulmaz, çünkü karttaki mikrodenetleyiciye önceden bir bootloader programı yazılıdır.
+
+STM nedir?
+Öncelikle stm32 nedir ile başlayalım. Stm32 ARM tabanlı işlemci kullanan mikrodenetleyicilerdir. Günümüzde artık aşina olduğumuz arduinoda da kullanılan 8 bit işlemciler yerine daha performanslı daha düşük güç tüketimine sahip 32 bit işlemciler tercih edilmektedir. Bu işlemciler hem mimari yapısı hem de sunmuş olduğu çevre birimleri sayesinde 8bit işlemcilere göre daha performanslı çalışmakta ve daha geniş alanlarda kullanılmaktadır. Günümüzde elektroniğin kullanım alanları oldukça artmıştır. Artık evimizdeki süpürgelerin bile akıllı olduğu bu dönemde akıllı cihazların isterleri doğrultusunda beklentileri karşılayabilecek işlemcilere ihtiyaç duyulmaktadır.
+
+Raspberry Pİ nedir?
+Raspberry Pi, insanları bilgisayar konusunda eğitmeyi ve bilgisayar eğitimine daha kolay erişim sağlamayı amaçlayan bir İngiliz yardım kuruluşu olan Raspberry Pi Foundation tarafından yapılan bir dizi tek kartlı bilgisayarın adıdır. İlk tanıtılan ve piyasaya sürülen Raspberry Pi, tek çekirdekli 700MHz frekansa sahip olan bir CPU (İşlemci)’ya sahipti ve bunu yanında bizlere yalnızca 256MB‘lık bir RAM sunuyordu. En son çıkan model ise dört çekirdekli 1.5GHz bir işlemciye ve 4GB‘lık bir RAM’e sahiptir.
+
+Kullanım alanları:
+1. Desktop PC
+2. Web Server
+3. Network Attached Server (NAS)
+4. Cloud File Server
+5. Ağ Kamerası / NVR
+6. Akıllı Hoparlör
+7. Ev Otomasyonu
